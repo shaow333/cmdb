@@ -152,7 +152,7 @@
 		          map()             地图展示
 		          mapdata()         传输地图数据			
 3流程图
-![image](cmdb/img/微信图片_20171121140809.png)
+![image](https://github.com/shaow333/cmdb/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171121140809.png)
 
 4.演示
 演示服务器地址 http://172.16.0.100:9999/login/ 账号: lhs 密码 12345678
