@@ -155,29 +155,22 @@
 ![image](https://github.com/shaow333/cmdb/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171121140809.png)
 
 4.演示
-演示服务器地址 http://172.16.0.100:9999/login/ 账号: lhs 密码 12345678
-
+演示服务器地址 http://172.16.0.100:9999/login/ 账号: lhs 密码 12345678(公司内网启动，外网暂不能登录，后续更新）
 用户登陆界面
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/1.png)
 用户注册
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/2.png)
 用户编辑
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/3.png)
 添加服务器界面
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/4.png)
 服务器更新界面
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/5.png)
 工单申请界面
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/6.png)
 工单处理界面
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/7.png)
 工单历史界面
-
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/8.png)
 日志来源地图
-
+![image](https://github.com/shaow333/cmdb/blob/master/img/11.png)
